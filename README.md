@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarisSv
 - 👀 I’m interested in mobile app development, specifically with Flutter and Dart. I also enjoy exploring backend technologies and cloud services.
-- 🌱 I’m currently learning GetX for state management in Flutter, as well as diving deeper into REST APIs and GraphQL.
+- 🌱 I’m currently learning GetX for state management in Flutter.
 - 💞️ I’m looking to collaborate on open-source Flutter projects, particularly those that aim to solve real-world problems or contribute to the developer community.
 - 📫 How to reach me: You can reach me via email at faris.hyder@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/faris-hyder-070a4b2aa/).
 - 😄 Pronouns: He/Him
